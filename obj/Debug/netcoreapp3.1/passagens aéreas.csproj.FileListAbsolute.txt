@@ -1,0 +1,13 @@
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\bin\Debug\netcoreapp3.1\passagens aéreas.exe
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\bin\Debug\netcoreapp3.1\passagens aéreas.deps.json
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\bin\Debug\netcoreapp3.1\passagens aéreas.runtimeconfig.json
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\bin\Debug\netcoreapp3.1\passagens aéreas.runtimeconfig.dev.json
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\bin\Debug\netcoreapp3.1\passagens aéreas.dll
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\bin\Debug\netcoreapp3.1\passagens aéreas.pdb
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\obj\Debug\netcoreapp3.1\passagens aéreas.csprojAssemblyReference.cache
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\obj\Debug\netcoreapp3.1\passagens aéreas.AssemblyInfoInputs.cache
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\obj\Debug\netcoreapp3.1\passagens aéreas.AssemblyInfo.cs
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\obj\Debug\netcoreapp3.1\passagens aéreas.csproj.CoreCompileInputs.cache
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\obj\Debug\netcoreapp3.1\passagens aéreas.dll
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\obj\Debug\netcoreapp3.1\passagens aéreas.pdb
+C:\Users\unicor\OneDrive\Área de Trabalho\passagens aéreas\obj\Debug\netcoreapp3.1\passagens aéreas.genruntimeconfig.cache
